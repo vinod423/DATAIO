@@ -1,0 +1,1 @@
+Aim of the repository is to have a version control and a sfae of the temporary work
